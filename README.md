@@ -38,6 +38,16 @@ A foundational Discrete Event Simulation (DES) developed to explore the core mec
 
 The model simulates a single-server banking environment to determine the tipping point where arrival rates overwhelm service capacity, leading to exponential wait times.
 
+---
+
+## 📂 Project Navigation
+
+### 1. [NextGen Crypto Digital Twin (System Dynamics)](./Crypto_Digital_Twin_Vensim)
+*Analysis of "Backfire Loops" in financial regulation using Vensim.*
+
+### 2. [ATM Queue Optimization (AnyLogic)](./ATM_Queue_AnyLogic)
+*Discrete Event Simulation exploring bottlenecks in banking services.*
+
 ### Technical Highlights
 * **Process Modeling:** Implementation of `Source` → `Queue` → `Seize` → `Delay` → `Sink` logic.
 * **Resource Management:** Dynamic allocation of server units (ATM) to incoming agents.
